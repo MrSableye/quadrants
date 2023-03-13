@@ -1,0 +1,46 @@
+body {
+  background-color: #535353;
+  font-family: courier-std, courier, monospace;
+}
+
+#container {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  margin: 0 auto;
+  max-width: 970px;
+  width: 100%;
+  background-color: #C6C6C6;
+}
+
+#content {
+  margin: 0 auto;
+  width: 650px;
+  background-color: #EFEFEF;
+}
+
+#title {
+  font-size: 32px;
+  line-height: 1.15;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+#canvas {
+  margin: 0 auto;
+  display: block;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#form-content {
+  text-align: center;
+}
+
+#text-content {
+  padding: 30px;
+  padding-top: 15px;
+  text-align: center;
+}
